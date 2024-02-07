@@ -1,6 +1,6 @@
 using System;
 
-namespace MVCgui.Models
+namespace MVCgui.Models.ViewModel
 {
     public class ErrorViewModel
     {
